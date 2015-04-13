@@ -1,0 +1,30 @@
+{
+  "name": "mp3tagger",
+  "version": "0.0.5",
+  "description": "Search and update album metadata for your mp3s",
+  "main": "app.js",
+  "bin": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emiprandi/mp3tagger"
+  },
+  "keywords": [
+    "id3",
+    "mp3",
+    "artist",
+    "title",
+    "track",
+    "album",
+    "eyed3",
+    "id3v2",
+    "music"
+  ],
+  "author": "Emiliano Prandi <emiprandi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emiprandi/mp3tagger/issues"
+  },
+  "dependencies": {
+    "disconnect": "^0.6.2"
+  }
+}
