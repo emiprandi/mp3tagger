@@ -1,6 +1,6 @@
 {
   "name": "mp3tagger",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Search and update album metadata for your mp3s",
   "main": "app.js",
   "bin": "app.js",
