@@ -12,9 +12,10 @@
 ### discogs.com account
 * Go to [discogs.com/developers](http://www.discogs.com/developers) and "Create an app".
 * Add the keys to your `.bash_profile`:
-
-        export DISCOGS_CONSUMER_KEY=<your_key>
-        export DISCOGS_CONSUMER_SECRET=<your_secret>
+```shell
+export DISCOGS_CONSUMER_KEY=<your_key>
+export DISCOGS_CONSUMER_SECRET=<your_secret>
+```
 
 ## Installation
 * `npm install -g mp3tagger`
