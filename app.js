@@ -40,8 +40,7 @@ fs.readdir(dir, function (err, files) {
         }
     });
 
-    //if (mp3s.length === 0) {
-    if (mp3s.length > 0) {
+    if (mp3s.length === 0) {
         return error('No mp3s to tag.');
     } else {
         eD3c = spawn('which', ['eyeD3']);
