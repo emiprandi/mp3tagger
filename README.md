@@ -21,7 +21,7 @@ export DISCOGS_CONSUMER_SECRET=<your_secret>
 * `npm install -g mp3tagger`
 
 ## Usage
-* Go to and album directory with mp3s inside and type `mp3tagger`
+* Type `mp3tagger` inside a directory with mp3s and follow the instructions
 
 ## Notes
 * mp3tagger will search for files in the directory by alphabetical order
